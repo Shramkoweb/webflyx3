@@ -1,17 +1,12 @@
-# [Your Project Name Here]
+# Project Name
 
-## 💡 Motivation
+## Motivation
+Describe why you built this project and the engineering problems it solves. 
 
-Explain **why** you built this project. What problem does it solve, and why does this solution matter? Avoid using minimizing language like "this is just a toy app." Instead, focus on the engineering choices you made and what you learned or intended to accomplish while building it.
-
----
-
-## 🚀 Quick Start
-
-Get your users up and running in under 60 seconds. Provide the absolute minimum steps required to see the project in action.
+## Quick Start
+Provide the absolute minimum commands needed to run the project locally right away.
 
 ```bash
-# Example: Download and run the application instantly
-git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-cd YourRepoName
+git clone [https://github.com/Shramkoweb/webflyx3.git](https://github.com/Shramkoweb/webflyx3.git)
+cd webflyx3
 go run main.go
